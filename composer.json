@@ -10,6 +10,9 @@
         {
             "name": "Symfony Community",
             "homepage": "http://symfony.com/contributors"
+        },
+        {
+            "name": "Scale Team"
         }
     ],
     "minimum-stability": "dev",
