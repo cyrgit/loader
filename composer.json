@@ -1,9 +1,6 @@
 {
-    "name": "symfony/class-loader",
+    "name": "cyrgit/class-loader",
     "type": "library",
-    "description": "Symfony ClassLoader Component",
-    "keywords": [],
-    "homepage": "http://symfony.com",
     "license": "MIT",
     "authors": [
         {
